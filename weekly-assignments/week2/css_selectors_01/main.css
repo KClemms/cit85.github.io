@@ -1,0 +1,9 @@
+
+a:link { color: darkcyan;
+}
+a:visited {color: cornflowerblue;
+}
+a:hover {color: yellow;
+}
+a:active {color: deeppink;
+}
