@@ -1,0 +1,17 @@
+
+div {
+    height: 100px;
+    width: 100px;
+    border: 1px crimson;
+    border-radius: 10px;
+    background-image: url("../img/pup2.jpg");
+    background-size: cover;
+}
+
+img {
+    border: 20px;
+    border-radius: 10px;
+}
+
+
+
