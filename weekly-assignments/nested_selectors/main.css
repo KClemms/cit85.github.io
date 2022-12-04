@@ -1,0 +1,16 @@
+
+div p {
+    color:blue;
+}
+
+div > p {
+    color: green;
+}
+
+div ~ p {
+    color:mediumvioletred;
+}
+
+div + p {
+    color: cornflowerblue;
+}
