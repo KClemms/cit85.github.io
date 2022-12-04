@@ -1,0 +1,17 @@
+p {
+    margin: 30px
+}
+
+p::first-letter {
+    font-family: cursive;
+    font-size: 48px;
+    line-height: .5;
+    color: darkmagenta;
+
+}
+
+p::first-line {
+    color: darkmagenta;
+    font-weight: 500;
+
+}
