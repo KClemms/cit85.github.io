@@ -1,0 +1,32 @@
+
+html {
+background-color: dodgerblue;
+}
+
+#header1{
+    color: blue;
+}
+
+#header2{
+    color: red;
+    
+}
+ body {
+     width: 60%;
+    margin: 0 auto;
+    background-color: forestgreen;
+     border: 5px solid black;
+}
+
+p {
+    font-size: small;
+
+}
+
+img{
+    margin: 0 auto;
+    border: 10px ridge gold ;
+    border-radius: 100%;
+    display: block;
+
+}
