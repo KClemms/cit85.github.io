@@ -1,0 +1,20 @@
+
+li:hover{
+    background-color: deeppink;
+}
+
+li {
+    display: inline-block;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    padding: 5px;
+    border-radius: 10px;
+    border: 2px solid blue;
+    display: inline-block;
+    text-decoration: none;
+}
