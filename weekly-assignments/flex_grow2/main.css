@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+
+div {
+    width: 400px;
+    height: 50px;
+    border: solid black;
+}
+
+.flexone {
+    flex-grow: 1;
+}
+
+.flextwo {
+    flex-grow: 2;
+}
