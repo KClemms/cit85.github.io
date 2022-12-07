@@ -1,6 +1,6 @@
 body {
     display: flex;
-    flex-flow: wrap;
+    flex-flow: row wrap;
 }
 
 div {

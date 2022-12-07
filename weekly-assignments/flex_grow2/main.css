@@ -3,9 +3,8 @@ body {
     flex-flow: row wrap;
 }
 
-
 div {
-    width: 400px;
+    /* width: 400px; */
     height: 50px;
     border: solid black;
 }
