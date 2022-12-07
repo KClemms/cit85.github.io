@@ -4,10 +4,15 @@ body {
 }
 
 div {
+    flex-grow: 1;
     width: 100px;
     height: 50px;
     margin: .5em;
     background-color: orangered;
     text-align: center;
     border: 1px solid black;
+}
+
+.two {
+    flex-grow: 2;
 }
