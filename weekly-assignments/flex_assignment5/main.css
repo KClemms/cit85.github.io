@@ -7,12 +7,11 @@ body {
 #sectionone {
     display: flex;
     flex-flow: row;
-    flex-direction: row;
+  /*  flex-direction: row; */
    /* height: 300px;
     width: 100px;  */
     color: aliceblue;
 }
-
 
 #sectiontwo {
     border: 1px solid red;
