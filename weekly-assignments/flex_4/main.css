@@ -1,23 +1,22 @@
 body {
     display: flex;
     flex-flow: row wrap;
+    flex-direction: row;
+    border: 1px solid red;
+
 }
 
 div {
-    flex-grow: 1;
     width: 100px;
     height: 50px;
-    text-align: center;
-    border: 1px solid black;
+    flex-wrap: wrap;
 }
 
-#one {
-    flex-grow: 5;
+#one {flex-grow: 2;
     background-color: darkblue;
 }
 
 #two {
-    flex-grow: 2;
     background-color: dodgerblue;
 }
 
