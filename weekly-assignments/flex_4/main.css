@@ -1,0 +1,35 @@
+body {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+div {
+    flex-grow: 1;
+    width: 100px;
+    height: 50px;
+    text-align: center;
+    border: 1px solid black;
+}
+
+#one {
+    flex-grow: 5;
+    background-color: darkblue;
+}
+
+#two {
+    flex-grow: 2;
+    background-color: dodgerblue;
+}
+
+#three {
+    flex-basis: 100%;
+    background-color: lightskyblue;
+}
+
+#four {
+    background-color: aliceblue;
+}
+
+#five {
+    background-color: lightgray;
+}
