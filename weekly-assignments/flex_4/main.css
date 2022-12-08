@@ -2,8 +2,7 @@ body {
     display: flex;
     flex-flow: wrap;
     flex-direction: row;
-    border: 1px solid red;
-
+    border: 2px solid red;
 }
 
 div {
@@ -12,23 +11,26 @@ div {
     flex-wrap: wrap;
 }
 
-#one {flex-grow: 2;
+#one {flex-basis: 60%;
     background-color: darkblue;
 }
 
 #two {
     background-color: dodgerblue;
+    flex-basis: 40%;
 }
 
 #three {
-    flex-basis: 100%;
     background-color: lightskyblue;
+    flex-basis: 33%;
 }
 
 #four {
     background-color: aliceblue;
+    flex-basis: 33%;
 }
 
 #five {
     background-color: lightgray;
+    flex-basis: 34%;
 }
