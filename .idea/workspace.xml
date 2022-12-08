@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c9552eac-2bc9-4a9c-942e-a6ad4c922817" name="Changes" comment="borders and margins" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HppMl1KXgLE1E95ttMgWIGyEGM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/ikarlie_2/cit85.github.io/weekly-assignments",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/weekly-assignments" />
+      <recent name="$PROJECT_DIR$/weekly-assignments/flex_box" />
+      <recent name="$PROJECT_DIR$/weekly-assignments/flex_box/flex_row" />
+      <recent name="$PROJECT_DIR$/weekly-assignments/flex_box/flex_row/flex_end" />
+      <recent name="$PROJECT_DIR$/weekly-assignments/flexbox" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/weekly-assignments/flex_box/flex_row" />
+      <recent name="$PROJECT_DIR$/weekly-assignments/flex_box/space_around" />
+      <recent name="$PROJECT_DIR$/weekly-assignments/img" />
+      <recent name="$PROJECT_DIR$/weekly-assignments" />
+      <recent name="$PROJECT_DIR$/009_ absolute-urls/img" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9552eac-2bc9-4a9c-942e-a6ad4c922817" name="Changes" comment="" />
+      <created>1668991833748</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668991833748</updated>
+      <workItem from="1668991835810" duration="1875000" />
+      <workItem from="1669220744390" duration="32626000" />
+      <workItem from="1669784307175" duration="1072000" />
+      <workItem from="1670126521048" duration="924000" />
+      <workItem from="1670127730229" duration="77748000" />
+    </task>
+    <task id="LOCAL-00001" summary="week 2 elements">
+      <created>1669442330981</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669442330981</updated>
+    </task>
+    <task id="LOCAL-00002" summary="week 2 elements">
+      <created>1669444587688</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669444587688</updated>
+    </task>
+    <task id="LOCAL-00003" summary="week 2 elements">
+      <created>1669609032990</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669609032990</updated>
+    </task>
+    <task id="LOCAL-00004" summary="week 2 elements">
+      <created>1669609660604</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669609660604</updated>
+    </task>
+    <task id="LOCAL-00005" summary="week 2 elements">
+      <created>1669615028108</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1669615028108</updated>
+    </task>
+    <task id="LOCAL-00006" summary="week 2 elements">
+      <created>1669616550262</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1669616550262</updated>
+    </task>
+    <task id="LOCAL-00007" summary="week 2 elements">
+      <created>1669690523139</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1669690523139</updated>
+    </task>
+    <task id="LOCAL-00008" summary="week 2 elements">
+      <created>1669695104140</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1669695104140</updated>
+    </task>
+    <task id="LOCAL-00009" summary="week 2 elements">
+      <created>1669696891817</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1669696891817</updated>
+    </task>
+    <task id="LOCAL-00010" summary="borders and margins">
+      <created>1669709009934</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1669709009934</updated>
+    </task>
+    <task id="LOCAL-00011" summary="borders and margins">
+      <created>1669710091003</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1669710091003</updated>
+    </task>
+    <task id="LOCAL-00012" summary="borders and margins">
+      <created>1670126539165</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1670126539165</updated>
+    </task>
+    <task id="LOCAL-00013" summary="borders and margins">
+      <created>1670127996197</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1670127996197</updated>
+    </task>
+    <task id="LOCAL-00014" summary="borders and margins">
+      <created>1670128873883</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1670128873883</updated>
+    </task>
+    <task id="LOCAL-00015" summary="borders and margins">
+      <created>1670138497112</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1670138497112</updated>
+    </task>
+    <task id="LOCAL-00016" summary="borders and margins">
+      <created>1670140753880</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1670140753880</updated>
+    </task>
+    <task id="LOCAL-00017" summary="borders and margins">
+      <created>1670143522349</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1670143522349</updated>
+    </task>
+    <task id="LOCAL-00018" summary="borders and margins">
+      <created>1670173358516</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1670173358516</updated>
+    </task>
+    <task id="LOCAL-00019" summary="borders and margins">
+      <created>1670209840472</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1670209840472</updated>
+    </task>
+    <task id="LOCAL-00020" summary="borders and margins">
+      <created>1670209877138</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1670209877138</updated>
+    </task>
+    <task id="LOCAL-00021" summary="borders and margins">
+      <created>1670211977810</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1670211977810</updated>
+    </task>
+    <task id="LOCAL-00022" summary="borders and margins">
+      <created>1670212025531</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1670212025531</updated>
+    </task>
+    <task id="LOCAL-00023" summary="borders and margins">
+      <created>1670217584325</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1670217584325</updated>
+    </task>
+    <task id="LOCAL-00024" summary="borders and margins">
+      <created>1670222726453</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1670222726453</updated>
+    </task>
+    <task id="LOCAL-00025" summary="borders and margins">
+      <created>1670226508472</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1670226508472</updated>
+    </task>
+    <task id="LOCAL-00026" summary="borders and margins">
+      <created>1670437259848</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1670437259848</updated>
+    </task>
+    <task id="LOCAL-00027" summary="borders and margins">
+      <created>1670437391758</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1670437391758</updated>
+    </task>
+    <task id="LOCAL-00028" summary="borders and margins">
+      <created>1670437769359</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1670437769359</updated>
+    </task>
+    <task id="LOCAL-00029" summary="borders and margins">
+      <created>1670444015576</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1670444015576</updated>
+    </task>
+    <task id="LOCAL-00030" summary="borders and margins">
+      <created>1670445308720</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1670445308720</updated>
+    </task>
+    <task id="LOCAL-00031" summary="borders and margins">
+      <created>1670445744112</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1670445744112</updated>
+    </task>
+    <task id="LOCAL-00032" summary="borders and margins">
+      <created>1670457335926</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1670457335926</updated>
+    </task>
+    <task id="LOCAL-00033" summary="borders and margins">
+      <created>1670459129461</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1670459129461</updated>
+    </task>
+    <task id="LOCAL-00034" summary="borders and margins">
+      <created>1670460698177</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1670460698177</updated>
+    </task>
+    <task id="LOCAL-00035" summary="borders and margins">
+      <created>1670468925763</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1670468925763</updated>
+    </task>
+    <task id="LOCAL-00036" summary="borders and margins">
+      <created>1670470628320</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1670470628320</updated>
+    </task>
+    <task id="LOCAL-00037" summary="borders and margins">
+      <created>1670470662757</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1670470662757</updated>
+    </task>
+    <task id="LOCAL-00038" summary="borders and margins">
+      <created>1670471074284</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1670471074284</updated>
+    </task>
+    <task id="LOCAL-00039" summary="borders and margins">
+      <created>1670474588108</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1670474588108</updated>
+    </task>
+    <task id="LOCAL-00040" summary="borders and margins">
+      <created>1670474698564</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1670474698564</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="week 2 elements" />
+    <MESSAGE value="borders and margins" />
+    <option name="LAST_COMMIT_MESSAGE" value="borders and margins" />
+  </component>
+</project>
