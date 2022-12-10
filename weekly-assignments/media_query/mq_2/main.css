@@ -1,0 +1,37 @@
+
+body {
+    display: flex;
+    border: 2px dotted red;
+    flex-flow: row wrap;
+    flex-direction: row;
+}
+
+div {
+    flex-grow: 1;
+    height: 50px;
+    border: 1px solid black;
+    text-align: center;
+}
+
+.flexone {
+    width: 100%;
+    background-color: orangered;
+}
+
+.flextwo {
+    flex-basis: 60%;
+    background-color: cornflowerblue;
+}
+
+.flexthree {
+    background-color: lightgreen;
+    flex-basis: 39%;
+}
+
+.flexfour {
+    background-color: yellow;
+}
+
+.flexfive {
+    background-color: blueviolet;
+}
