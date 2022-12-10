@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9552eac-2bc9-4a9c-942e-a6ad4c922817" name="Changes" comment="borders and margins">
+      <change afterPath="$PROJECT_DIR$/weekly-assignments/media_query/mq_3/desktop/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weekly-assignments/media_query/mq_3/desktop/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weekly-assignments/media_query/mq_3/desktop/mq_900plus.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weekly-assignments/media_query/mq_3/desktop/mq_print.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weekly-assignments/media_query/mq_3/mobile/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weekly-assignments/media_query/mq_3/mobile/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weekly-assignments/media_query/mq_3/mobile/mq_900plus.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weekly-assignments/media_query/mq_3/mobile/mq_print.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weekly-assignments/media_query/mq_2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/weekly-assignments/media_query/mq_2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weekly-assignments/media_query/mq_2/mq_100percent.css" beforeDir="false" afterPath="$PROJECT_DIR$/weekly-assignments/media_query/mq_2/mq_100percent.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +41,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/ikarlie_2/cit85.github.io/weekly-assignments",
+    "last_opened_file_path": "/Users/ikarlie_2/cit85.github.io/weekly-assignments/media_query/mq_3",
     "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "vcs.Git",
     "vue.rearranger.settings.migration": "true"
@@ -43,18 +49,18 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/weekly-assignments/media_query/mq_3" />
       <recent name="$PROJECT_DIR$/weekly-assignments" />
       <recent name="$PROJECT_DIR$/weekly-assignments/flex_box" />
       <recent name="$PROJECT_DIR$/weekly-assignments/flex_box/flex_row" />
       <recent name="$PROJECT_DIR$/weekly-assignments/flex_box/flex_row/flex_end" />
-      <recent name="$PROJECT_DIR$/weekly-assignments/flexbox" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/weekly-assignments/media_query/mq_3/desktop" />
       <recent name="$PROJECT_DIR$/weekly-assignments/media_query/mq_1" />
       <recent name="$PROJECT_DIR$/weekly-assignments/flex_box/flex_row" />
       <recent name="$PROJECT_DIR$/weekly-assignments/flex_box/space_around" />
       <recent name="$PROJECT_DIR$/weekly-assignments/img" />
-      <recent name="$PROJECT_DIR$/weekly-assignments" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -69,7 +75,7 @@
       <workItem from="1669220744390" duration="32626000" />
       <workItem from="1669784307175" duration="1072000" />
       <workItem from="1670126521048" duration="924000" />
-      <workItem from="1670127730229" duration="83189000" />
+      <workItem from="1670127730229" duration="86794000" />
     </task>
     <task id="LOCAL-00001" summary="week 2 elements">
       <created>1669442330981</created>
@@ -372,7 +378,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670632984031</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="borders and margins">
+      <created>1670634190443</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1670634190443</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
