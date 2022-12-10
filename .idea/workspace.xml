@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9552eac-2bc9-4a9c-942e-a6ad4c922817" name="Changes" comment="borders and margins">
-      <change afterPath="$PROJECT_DIR$/weekly-assignments/media_query/mq_2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weekly-assignments/media_query/mq_2/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weekly-assignments/media_query/mq_2/mq_100percent.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weekly-assignments/media_query/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/weekly-assignments/media_query/mq_1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weekly-assignments/media_query/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/weekly-assignments/media_query/mq_1/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weekly-assignments/media_query/mq_1200_plus.css" beforeDir="false" afterPath="$PROJECT_DIR$/weekly-assignments/media_query/mq_1/mq_1200_plus.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weekly-assignments/media_query/mq_2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/weekly-assignments/media_query/mq_2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weekly-assignments/media_query/mq_2/mq_100percent.css" beforeDir="false" afterPath="$PROJECT_DIR$/weekly-assignments/media_query/mq_2/mq_100percent.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +69,7 @@
       <workItem from="1669220744390" duration="32626000" />
       <workItem from="1669784307175" duration="1072000" />
       <workItem from="1670126521048" duration="924000" />
-      <workItem from="1670127730229" duration="82189000" />
+      <workItem from="1670127730229" duration="83189000" />
     </task>
     <task id="LOCAL-00001" summary="week 2 elements">
       <created>1669442330981</created>
@@ -369,7 +365,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670630851189</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="borders and margins">
+      <created>1670632984031</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1670632984031</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
