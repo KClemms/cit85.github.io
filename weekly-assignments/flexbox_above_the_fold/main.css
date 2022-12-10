@@ -1,0 +1,26 @@
+html, body {
+    padding: 0;
+    border: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    color: whitesmoke;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    border: solid crimson;
+    background-image: url("https://res.cloudinary.com/dtpgi0zck/image/upload/s--UbNlvuCw--/c_fit,h_580,w_860/v1/EducationHub/photos/day-in-the-tropics.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+p  {
+    font-size: 4rem;
+   /* color: white; */
+}
