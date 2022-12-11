@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9552eac-2bc9-4a9c-942e-a6ad4c922817" name="Changes" comment="borders and margins">
+      <change afterPath="$PROJECT_DIR$/weekly-assignments/Transition/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weekly-assignments/Transition/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weekly-assignments/Layout/inline_block.css" beforeDir="false" afterPath="$PROJECT_DIR$/weekly-assignments/Layout/inline_block.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weekly-assignments/Layout/inline_block.html" beforeDir="false" afterPath="$PROJECT_DIR$/weekly-assignments/Layout/inline_block.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,21 +69,7 @@
       <workItem from="1669220744390" duration="32626000" />
       <workItem from="1669784307175" duration="1072000" />
       <workItem from="1670126521048" duration="924000" />
-      <workItem from="1670127730229" duration="116226000" />
-    </task>
-    <task id="LOCAL-00007" summary="week 2 elements">
-      <created>1669690523139</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1669690523139</updated>
-    </task>
-    <task id="LOCAL-00008" summary="week 2 elements">
-      <created>1669695104140</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1669695104140</updated>
+      <workItem from="1670127730229" duration="118670000" />
     </task>
     <task id="LOCAL-00009" summary="week 2 elements">
       <created>1669696891817</created>
@@ -414,7 +400,21 @@
       <option name="project" value="LOCAL" />
       <updated>1670717617314</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="borders and margins">
+      <created>1670719036826</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1670719036826</updated>
+    </task>
+    <task id="LOCAL-00057" summary="borders and margins">
+      <created>1670719135141</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1670719135141</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
