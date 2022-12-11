@@ -1,0 +1,46 @@
+
+body {
+    display: flex;
+    flex-flow: row wrap;
+    flex-direction: row;
+}
+
+div {
+    flex-grow: 1;
+    height: 50px;
+    border: 1px solid black;
+}
+/*
+section {
+    width: 100%;
+    height: 80px;
+    border: 2px solid green;
+
+}
+*/
+
+.flexone {
+    width: 100%;
+    background-color: yellow;
+    border: 2px solid blue;
+}
+
+.flextwo {
+    height: 80px;
+    flex-grow: 1;
+    background-color: cornflowerblue;
+}
+
+.flexthree {
+    height: 80px;
+    flex-grow: 3;
+    background-color: lightgreen;
+}
+
+.flexfour {
+    width: 100%;
+    height: 50px;
+    background-color: purple;
+    border: 2px solid red;
+}
+
