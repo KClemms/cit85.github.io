@@ -1,0 +1,21 @@
+
+/* changes color and centers text */
+.one {
+    text-align: left;
+    color: blue;
+}
+
+/* changes color, increases size and sets margin */
+.two {
+    font-size: larger;
+    color: green;
+    margin: 50px;
+    text-shadow: black;
+}
+
+/* Changes the color and font. Hoped it would line through  */
+#three {
+    font-family: Geneva;
+    color: deeppink;
+    text-line-through: double;
+}
