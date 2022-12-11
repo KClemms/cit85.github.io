@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9552eac-2bc9-4a9c-942e-a6ad4c922817" name="Changes" comment="borders and margins">
-      <change afterPath="$PROJECT_DIR$/weekly-assignments/Transition/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weekly-assignments/Transition/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weekly-assignments/animation/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weekly-assignments/animation/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +35,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/ikarlie_2/cit85.github.io/weekly-assignments/media_query/mq_3",
+    "last_opened_file_path": "/Users/ikarlie_2/cit85.github.io/weekly-assignments/animation",
     "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "vcs.Git",
     "vue.rearranger.settings.migration": "true"
@@ -43,11 +43,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/weekly-assignments/animation" />
       <recent name="$PROJECT_DIR$/weekly-assignments/media_query/mq_3" />
       <recent name="$PROJECT_DIR$/weekly-assignments" />
       <recent name="$PROJECT_DIR$/weekly-assignments/flex_box" />
       <recent name="$PROJECT_DIR$/weekly-assignments/flex_box/flex_row" />
-      <recent name="$PROJECT_DIR$/weekly-assignments/flex_box/flex_row/flex_end" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/weekly-assignments/media_query/mq_3" />
@@ -69,14 +69,7 @@
       <workItem from="1669220744390" duration="32626000" />
       <workItem from="1669784307175" duration="1072000" />
       <workItem from="1670126521048" duration="924000" />
-      <workItem from="1670127730229" duration="118670000" />
-    </task>
-    <task id="LOCAL-00009" summary="week 2 elements">
-      <created>1669696891817</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1669696891817</updated>
+      <workItem from="1670127730229" duration="122302000" />
     </task>
     <task id="LOCAL-00010" summary="borders and margins">
       <created>1669709009934</created>
@@ -414,7 +407,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670719135141</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="borders and margins">
+      <created>1670730747912</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1670730747912</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
