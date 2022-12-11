@@ -1,18 +1,22 @@
-html {
-     font-size: 4vw;
+
+div {
+    color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+    width: 150px;
+    border-radius: 100%;
+    background-color: red;
+
 }
 
-html, body {
-     padding: 0;
-     margin: 0;
-     height: 100%
-}
+
 
 body {
-     color: red;
-     display: flex;
-     justify-content: center;
-     align-items: center;
+     animation-name: change-color;
+     animation-duration: 5s;
+     animation-iteration-count: infinite;
 }
 
 .icon {
@@ -22,12 +26,6 @@ body {
 
 .circle {
      font-size: 8rem;
-}
-
-body {
-     animation-name: change-color;
-     animation-duration: 5s;
-     animation-iteration-count: infinite;
 }
 
 @keyframes change-color {
